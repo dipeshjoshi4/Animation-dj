@@ -1,7 +1,9 @@
 # Animation-dj
 this repository have my small animation project which is make your html-css-js practise strong and build confidence
 
-9dot-animation-dj.netlify.app
+## 🔗 Live Link
+ [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://9dot-animation-dj.netlify.app)
+
 
 ## 🔗 Links
 
