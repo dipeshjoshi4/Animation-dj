@@ -3,24 +3,18 @@ this repository have my small animation project which is make your html-css-js p
 i upload weekly in this repo
 
 
-### Table of Contents
-
-| No. | Title-Link                                                                                                                                                                                                                       |
-| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     |                                                                                                                                                                                                                    |
-| 1   | https://9dot-animation-dj.netlify.app     
-
-
-                        
-
-
 ## 🔗 Live Link
 
-
-
- ## 🔗 9-DOT-ANIMATION  [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://9dot-animation-dj.netlify.app) <br>
+ ## 🔗 9-DOT-ANIMATION  
+ [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://9dot-animation-dj.netlify.app) <br>
+ 
+  ## 🔗 9-DOT-ANIMATION  
  [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://skype-loader.netlify.app)<br>
+ 
+  ## 🔗 9-DOT-ANIMATION  
  [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://loadeing-dj.netlify.app)<br>
+ 
+  ## 🔗 9-DOT-ANIMATION  
  [![Net](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)]( https://animation-skill-bar-dj.netlify.app)<br>
  
  
