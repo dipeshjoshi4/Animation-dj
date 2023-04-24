@@ -13,7 +13,14 @@ body{
 	-webkit-perspective:700px;
 	perspective: 700px;
 }
-
+.developer-details {
+  color: white;
+  text-align: center;
+  font-size: 28px;
+  line-height: 1.5em;
+  padding-bottom: 0px;
+  padding-top: 700px;
+}
 .loader>span{
 	font-size: 130px;
 	font-family: "franklin gothic medium",sans-serif;
