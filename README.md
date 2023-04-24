@@ -12,7 +12,7 @@ i upload weekly in this repo
   [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://skype-loader.netlify.app)<br>
  
   ## 🔗 3d Flipping Text 
-  [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://loadeing-dj.netlify.app)<br>
+  [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://3d-flipping-text-dj.netlify.app)<br>
  
   ## 🔗 Animated Skills Bar 
   [![Net](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)]( https://animation-skill-bar-dj.netlify.app)<br>
