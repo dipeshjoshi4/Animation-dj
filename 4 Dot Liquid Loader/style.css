@@ -6,6 +6,17 @@ body {
   min-height: 100vh;
   overflow: hidden;
 }
+
+.developer-details {
+  color: white;
+  text-align: center;
+  font-size: 18px;
+  line-height: 1.5em;
+  padding-right: 1200px;
+  /* padding-bottom: 50px; */
+  /* padding-top: 50px; */
+}
+
 .container {
   position: relative;
   width: 250px;
