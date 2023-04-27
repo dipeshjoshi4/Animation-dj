@@ -6,6 +6,14 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
+.developer-details {
+  color: black;
+  text-align: center;
+  font-size: 18px;
+  line-height: 1.5em;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
 body{
     height: 100vh;
     display: flex;
