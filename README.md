@@ -16,7 +16,7 @@ i upload weekly in this repo
   [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://3d-flipping-text-dj.netlify.app)<br>
  
   ## 🔗 Animated Skills Bar 
-  [![Net](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)]( https://animation-skill-bar-dj.netlify.app)<br>
+  [![Net](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://animated-skill-dj.netlify.app)<br>
  
    ## 🔗 4 Dot Liquid Loader  💧
   [![Net](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)]()<br>
