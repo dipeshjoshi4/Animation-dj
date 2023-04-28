@@ -19,7 +19,7 @@ i upload weekly in this repo
   [![Net](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://animated-skill-dj.netlify.app)<br>
  
    ## 🔗 4 Dot Liquid Loader  💧
-  [![Net](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)]()<br>
+  [![Net](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://4-dot-liquid-loader-dj.netlify.app)<br>
  
 ## 🔗 Links
 
