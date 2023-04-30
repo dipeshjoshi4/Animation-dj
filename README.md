@@ -6,6 +6,9 @@ i upload weekly in this repo
 
 ## 🔗 Live Link
 
+ ## 🔗 10 Different Spinner 
+ [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)]() <br>
+
  ## 🔗 9-DOT-ANIMATION  
  [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://9dot-animation-dj.netlify.app) <br>
  
