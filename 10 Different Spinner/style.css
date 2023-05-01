@@ -6,6 +6,16 @@
   border-color: #000 #0000;
   animation: s1 1s infinite;
 }
+
+.developer-details {
+  color: black;
+  text-align: center;
+  font-size: 18px;
+  line-height: 1.5em;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+
 @keyframes s1 {to{transform: rotate(.5turn)}}
 
 .spinner-2 {
