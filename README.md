@@ -2,9 +2,9 @@
 this repository have my small animation project which is make your html-css-js practise strong and build confidence
 i upload weekly in this repo
 
-## 🔗 Here is a list of Small but Effective Animation with their live link
+## 🔗Live Link ( Here is a list of Small but Effective Animation with their live link)
 
-## 🔗 Live Link
+
 
  ## 🔗 10 Different Spinner 
  [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://10-different-spinner-dj.netlify.app) <br>
