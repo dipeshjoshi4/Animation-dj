@@ -2,7 +2,7 @@
 this repository have my small animation project which is make your html-css-js practise strong and build confidence
 i upload weekly in this repo
 
-## 🔗Live Link ( Here is a list of Small but Effective Animation with their live link)
+## 🔗Live Link ( this list of Small but Effective Animation with their live link)
 
 
 
