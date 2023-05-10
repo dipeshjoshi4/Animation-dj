@@ -4,7 +4,7 @@ i upload weekly in this repo
 
 ## 🔗Live Link ( this list of Small but Effective Animation with their live link)
 
- ## 🔗 3D Card Hover 
+ ## 🔗 3D Card With Hover 
  [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)]() <br>
 
  ## 🔗 10 Different Spinner 
