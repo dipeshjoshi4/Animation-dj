@@ -2,6 +2,19 @@
   --card-height: 300px;
   --card-width: calc(var(--card-height) / 1.5);
 }
+
+.developer-details {
+  color: white;
+  text-align: center;
+  font-size: 18px;
+  line-height: 1.5em;
+  padding-bottom: 50px;
+  padding-top: 10px;
+  position: relative;
+  top: 10%;
+  left: 5%;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -23,7 +36,7 @@ body {
   align-items: flex-end;
   padding: 0 36px;
   perspective: 2500px;
-  margin: 0 50px;
+  margin: 0 25px;
 }
 
 .cover-image {
