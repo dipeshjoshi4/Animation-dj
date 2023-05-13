@@ -8,6 +8,15 @@ body {
   align-items: center;
 }
 
+.developer-details {
+  color: black;
+  text-align: center;
+  font-size: 18px;
+  line-height: 1.5em;
+  padding-bottom: 0px;
+  padding-top: 0px;
+}
+
 .hexagon-wrapper {
   margin: auto;
   display: flex;
