@@ -4,28 +4,28 @@ i upload weekly in this repo
 
 ## 🔗Live Link ( this list of Small but Effective Animation with their live link)
 
- ## 🔗 Butterfly Share Button
+ ## 🔗No-8-Butterfly Share Button
  [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://butterfly-share-button-dj.netlify.app) <br>
 
- ## 🔗 3D Card With Hover 
+ ## 🔗No-7-3D Card With Hover 
  [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://3d-card-with-hover-dj.netlify.app) <br>
 
- ## 🔗 10 Different Spinner 
+ ## 🔗No-6-10 Different Spinner 
  [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://10-different-spinner-dj.netlify.app) <br>
 
- ## 🔗 9-DOT-ANIMATION  
+ ## 🔗No-5-9-DOT-ANIMATION  
  [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://9dot-animation-dj.netlify.app) <br>
  
-  ## 🔗 Skype-Loader  
+  ## 🔗No-4-Skype-Loader  
   [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://skype-loader.netlify.app)<br>
  
   ## 🔗 No-3-3d Flipping Text 
   [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://3d-flipping-text-dj.netlify.app)<br>
  
-  ## 🔗No-2- Animated Skills Bar 
+  ## 🔗No-2-Animated Skills Bar 
   [![Net](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://animated-skill-dj.netlify.app)<br>
  
-   ## 🔗 No-1-4 Dot Liquid Loader  💧
+   ## 🔗 No-1-4Dot Liquid Loader  💧
   [![Net](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://4-dot-liquid-loader-dj.netlify.app)<br>
  
 ## 🔗 Links
